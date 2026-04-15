@@ -1,0 +1,9 @@
+# 가상환경 무시
+FastAPI-h/
+pyvenv.cfg
+
+# 로컬 DB 무시
+chroma_db_local/
+
+# 기타 캐시
+__pycache__/
